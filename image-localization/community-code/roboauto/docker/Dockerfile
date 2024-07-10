@@ -1,4 +1,4 @@
-FROM ubuntu:xenial
+FROM ubuntu:xenial-20201014
 MAINTAINER pavel.cernocky@artin.cz
 MAINTAINER tomas.cernik@artin.cz
 
